@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/foodie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/foodie?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Jollibee)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Jollibee?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Jollibee?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/5XnX83goEZo?style=social)](https://youtu.be/5XnX83goEZo)
 
   <br />
   <br />
 
-  <h2 align="center">Foodie - Fast food website</h2>
+  <h2 align="center">Jollibee - Fast food website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Jollibee is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/Jollibee/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Jollibee Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Foodie** locally, run this command on your git bash:
+To run **Jollibee** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
+sudo git clone https://github.com/codewithsadee/Jollibee.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/foodie.git
+git clone https://github.com/codewithsadee/Jollibee.git
 ```
 
 ### Contact

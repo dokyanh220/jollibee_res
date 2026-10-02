@@ -1,10 +1,10 @@
-Foodie. - Supper delicious Burger in town!
+Jollibee. - Supper delicious Burger in town!
 
 
 
 #---------- HEADER ----------#
 
-Foodie.
+Jollibee.
 
 Home
 About Us
@@ -52,7 +52,7 @@ alt = Burger
 
 Maxican Pizza
 
-Food is any substance consumed to provide nutritional support for an organism.
+Thức ăn là bất kỳ chất nào được tiêu thụ để cung cấp hỗ trợ dinh dưỡng cho một sinh vật
 
 Soft Drinks
 
@@ -70,7 +70,7 @@ alt = Burger with Drinks
 
 alt = get up to 50% off now
 
-Foodie, Burgers, and Best Pizzas in Town!
+Jollibee, Burgers, and Best Pizzas in Town!
 
 The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
 
@@ -93,7 +93,7 @@ Popular Dishes
 
 Our Delicious Foods
 
-Food is any substance consumed to provide nutritional support for an organism.
+Thức ăn là bất kỳ chất nào được tiêu thụ để cung cấp hỗ trợ dinh dưỡng cho một sinh vật
 
 All
 Pizza
@@ -114,8 +114,8 @@ Chicken
 Fried Chicken Unlimited
 
 Price:
-$49.00
-$69.00
+99.000 ₫
+149.000 ₫
 
 
 alt = Burger King Whopper
@@ -126,8 +126,8 @@ Noddles
  
 Burger King Whopper
 
-$29.00 
-$39.00
+69.000 ₫ 
+99.000 ₫
 
 alt = White Castle Pizzas
 
@@ -136,8 +136,8 @@ Pizzas
 
 White Castle Pizzas
 
-$49.00 
-$69.00
+99.000 ₫ 
+149.000 ₫
 
 alt = Bell Burrito Supreme
 
@@ -146,8 +146,8 @@ Burrito
  
 Bell Burrito Supreme
 
-$59.00
-$69.00
+79.000 ₫
+149.000 ₫
 
 alt = Kung Pao Chicken BBQ
 
@@ -156,8 +156,8 @@ Nuggets
 
 Kung Pao Chicken BBQ
 
-$49.00
-$69.00
+99.000 ₫
+149.000 ₫
 
 alt = Wendy's Chicken
 
@@ -166,14 +166,14 @@ Chicken
 
 Wendy's Chicken
 
-$49.00 
-$69.00
+99.000 ₫ 
+149.000 ₫
 
 
 
 #---------- CTA ----------#
 
-The Foodie Have Excellent Of Quality Burgers!
+The Jollibee Have Excellent Of Quality Burgers!
 
 The restaurants in Hangzhou also catered to many northern Chinese who had fled south from Kaifeng during the Jurchen invasion of the 1120s, while it is also known that many restaurants were run by families.
 
@@ -260,7 +260,7 @@ Latest Blog Posts
 
 This Is All About Foods
 
-Food is any substance consumed to provide nutritional support for an organism.
+Thức ăn là bất kỳ chất nào được tiêu thụ để cung cấp hỗ trợ dinh dưỡng cho một sinh vật
 
 alt = What Do You Think About Cheese Pizza Recipes?
 
@@ -274,7 +274,7 @@ Jonathan Smith
 
 What Do You Think About Cheese Pizza Recipes?
 
-Financial experts support or help you to to find out which way you can raise your funds more...
+..
 
 Read More
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
@@ -291,9 +291,9 @@ Chicken
 
 #---------- FOOTER ----------#
 
-Foodie.
+Jollibee.
 
-Financial experts support or help you to to find out which way you can raise your funds more.
+
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -302,11 +302,11 @@ Financial experts support or help you to to find out which way you can raise you
 
 Contact Info
 
-+1 (062) 109-9222
++84 372 905571
 
-Info@YourGmail24.com
+kyanhdubo2107@gmail.com
 
-153 Williamson Plaza, Maggieberg, MT 09514
+204 Nguyễn Thị Minh Khai, , Quận 3,  Hồ Chí Minh
 
 Opening Hours 
 
