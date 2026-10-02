@@ -13,7 +13,7 @@
 
   Jollibee is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/Jollibee/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dokyanh220.github.io/jollibee_res/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
